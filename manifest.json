@@ -1,0 +1,17 @@
+{
+    "name": "defaultproperty.liu-xiao-guo",
+    "description": "description of defaultproperty",
+    "architecture": "all",
+    "title": "defaultproperty",
+    "hooks": {
+        "defaultproperty": {
+            "apparmor": "defaultproperty.apparmor",
+            "desktop":  "defaultproperty.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
